@@ -511,6 +511,7 @@ h6,
   color: #ffffff;
 }
 
+
 #menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -578,4 +579,14 @@ h6,
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
   background-color: #ffffff;
+}
+#header1-2 .mbr-section-title {
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box6-9 .mbr-section-title,
+#msg-box6-9 .lead p {
+  color: #fff;
+}
+#msg-box6-9 H3 {
+  font-size: 46px;
 }
