@@ -1,2 +1,2 @@
-cp ../index.html .
+cp ../*.html .
 cp -r ../assets .
