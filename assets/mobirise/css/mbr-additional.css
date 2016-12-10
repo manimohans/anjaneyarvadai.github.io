@@ -594,6 +594,17 @@ h6,
 #msg-box6-9 H3 {
   font-size: 30px;
 }
+#header3-i .mbr-section-title,
+#header3-i .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box7-h .mbr-section-title,
+#msg-box7-h .lead p {
+  color: #fff;
+}
+#msg-box7-h H3 {
+  font-size: 32px;
+}
 #header3-f .mbr-section-title,
 #header3-f .mbr-section-subtitle {
   text-align: center;
