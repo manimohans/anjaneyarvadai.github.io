@@ -616,3 +616,14 @@ h6,
 #msg-box5-g P {
   color: #ffffff;
 }
+#header3-j .mbr-section-title,
+#header3-j .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box7-l .mbr-section-title,
+#msg-box7-l .lead p {
+  color: #fff;
+}
+#msg-box7-l H3 {
+  font-size: 32px;
+}
