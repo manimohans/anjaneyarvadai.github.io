@@ -627,3 +627,10 @@ h6,
 #msg-box7-l H3 {
   font-size: 32px;
 }
+#header3-m .mbr-section-title,
+#header3-m .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box4-n H3 {
+  font-size: 32px;
+}
